@@ -1,5 +1,5 @@
 # NHL-Tracker-App
-Led a team of 5 to develop an Android NHL Tracker App using Java, XML, and Android Studio for a project in CP470 at Wilfrid Laurier University. The app features real-time scores, the latest NHL news, updated standings, and daily game predictions. It also includes a profile tab for users to add and manage their favorite teams, providing a personalized NHL experience. Accessed an NHL API using Retrofit that has standings, past/future games, news, and betting odds data.
+Led a team of 3 to develop an Android NHL Tracker App using Java, XML, and Android Studio for a project in CP470 at Wilfrid Laurier University. The app features real-time scores, the latest NHL news, updated standings, and daily game predictions. It also includes a profile tab for users to add and manage their favorite teams, providing a personalized NHL experience. Accessed an NHL API using Retrofit that has standings, past/future games, news, and betting odds data.
 
 Language: Java
 UI Layouts: XML
